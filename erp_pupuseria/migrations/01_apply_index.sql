@@ -1,0 +1,1 @@
+ALTER TABLE detalles_pedidos ADD INDEX idx_producto (id_producto);

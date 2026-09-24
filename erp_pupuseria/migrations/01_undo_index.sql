@@ -1,0 +1,1 @@
+ALTER TABLE detalles_pedidos DROP INDEX idx_producto;
