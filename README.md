@@ -1,4 +1,3 @@
-markdown
 # ERP Pupusería Doña Mary — v1.1.0
 
 Sistema de gestión (ERP) para Pupusería Doña Mary: punto de venta, control de
